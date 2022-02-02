@@ -1,6 +1,3 @@
-from distutils import command
-
-
 command = ""
 started = False
 while True:
